@@ -122,10 +122,12 @@
 ### `./contact`
 
 ```
-  github.com/almight
-  xyberclan.dev
+[![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](/) : github.com/Josiasange37
+ portfolio :  almightportfolio.vercel.app
+ startup :  xyberclan.dev
 
   "The quieter you become, the more you can hear."
+"I US ARCH BY THE WAY "
 ```
 
 <div align="center">
