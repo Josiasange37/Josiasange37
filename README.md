@@ -122,12 +122,12 @@
 ### `./contact`
 
 ```
-[![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](/) : github.com/Josiasange37
+GITHUB : github.com/Josiasange37
  portfolio :  almightportfolio.vercel.app
  startup :  xyberclan.dev
 
   "The quieter you become, the more you can hear."
-"I US ARCH BY THE WAY "
+
 ```
 
 <div align="center">
@@ -137,5 +137,5 @@
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2020,50:8b0000,100:0d0000&height=100&section=footer" />
-
+[![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](/) : "I US ARCH BY THE WAY "
 </div>
