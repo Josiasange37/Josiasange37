@@ -8,7 +8,9 @@
 </a>
 
 <br/><br/>
-
+[![](https://img.shields.io/badge/OPEN%20FOR-HACKING%20CONTRIBUTIONS-ff2020?style=for-the-badge&logo=git&logoColor=white&labelColor=0d0d0d)](/)
+[![](https://img.shields.io/badge/OPEN%20FOR-CODE%20COLLABORATION-ff2020?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](/)
+[![](https://img.shields.io/badge/HackTheBox-ACTIVE-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=9fef00&labelColor=0d0d0d)](https://app.hackthebox.com/profile/almight)
 [![](https://img.shields.io/badge/-RED%20TEAM%20OPERATOR-ff2020?style=flat-square&logo=target&logoColor=white&labelColor=0d0d0d)](/)
 [![](https://img.shields.io/badge/-CTO%20@%20XYBERCLAN-ff2020?style=flat-square&logo=icloud&logoColor=white&labelColor=0d0d0d)](https://xyberclan.dev)
 [![](https://img.shields.io/badge/-78%20REPOS-ff2020?style=flat-square&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/almight?tab=repositories)
