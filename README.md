@@ -137,9 +137,8 @@ GITHUB : github.com/Josiasange37
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2020,50:8b0000,100:0d0000&height=100&section=footer" />
+```
+ "I US ARCH BY THE WAY "
+  ```
 
-<div align="center">
-[![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](/) : "I US ARCH BY THE WAY "
-  
-</div>
 </div>
