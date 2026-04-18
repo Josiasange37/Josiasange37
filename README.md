@@ -27,6 +27,7 @@
   Operator  : Almight
   Role      : Red Team Operator — CTO @ XyberClan
   Company   : xyberclan.dev
+  website   : www.almight.me
   Repos     : 78        Commits : 798+
   Followers : 5         Stars   : 9
   Mission   : Offensive security. Build. Break. Repeat.
