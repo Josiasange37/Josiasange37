@@ -25,7 +25,7 @@
 └─# cat /etc/operator
 
   Operator  : Almight
-  Role      : Red Team Operator — CTO @ XyberClan
+  Role      : Red Team Operator — coofounder / CTO @ XyberClan
   Company   : xyberclan.dev
   website   : www.almight.me
   Repos     : 78        Commits : 798+
